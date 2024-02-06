@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Comic+Sans");
+html {
+    width: 100%;
+    height: 1005;
+}
+body {
+    font-family: 'Comic Sans';
+}
