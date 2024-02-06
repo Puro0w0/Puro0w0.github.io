@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Comic+Sans");
+html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    font-family: 'Comic Sans';
+    background-image: url("https://www.dropbox.com/scl/fi/yluwkzujhn2ae7vqxbkqw/aboutmebg.png?rlkey=wmh6cy5hvfzu04xrjxhncmpwn&dl=1");
+}
+h1 {
+    font-family: 'Comic Sans';
+}
