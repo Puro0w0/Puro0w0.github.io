@@ -10,3 +10,7 @@ body {
 h1 {
     font-family: 'Comic Sans';
 }
+p {
+    font-family: 'Comic Sans';
+    background-color: #808080;
+}
