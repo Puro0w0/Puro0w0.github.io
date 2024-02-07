@@ -4,12 +4,12 @@ html {
     height: 100%;
 }
 body {
-    font-family: 'Comic Sans';
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-image: url("https://www.dropbox.com/scl/fi/yluwkzujhn2ae7vqxbkqw/aboutmebg.png?rlkey=wmh6cy5hvfzu04xrjxhncmpwn&dl=1");
 }
 h1 {
-    font-family: 'Comic Sans';
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 p {
-    font-family: 'Comic Sans';
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
