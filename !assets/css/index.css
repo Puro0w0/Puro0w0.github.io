@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Comic+Sans");
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
 html {
     width: 100%;
     height: 100%;
@@ -11,7 +10,7 @@ h1 {
     font-family: Comic Sans MS", "Comic Sans", cursive;
 }
 header {
-    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    font-family: Comic Sans MS", "Comic Sans", cursive;
 }
 footer {
     text-align: center;
