@@ -17,8 +17,7 @@ button {
 header {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
-footer {
+.buttom {
     position: absolute;
     bottom: 0;
-    text-align: center;
 }
