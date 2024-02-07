@@ -13,18 +13,3 @@ h1 {
 footer {
     text-align: center;
 }
-#DragBTNS {
-  position: absolute;
-  z-index: 9;
-  background-color: #383434;
-  color: #fff;
-  text-align: center;
-  border: 1px solid #d3d3d3;
-}
-#HeadDragBTNS {
-  padding: 5px;
-  cursor: move;
-  z-index: 10;
-  background-color: #000000;
-  color: #fff;
-}
