@@ -39,3 +39,7 @@ a:hover {
     background-color: black;
     color: white;
 }
+.bottom {
+    position: fixed;
+    bottom: 0;
+}
