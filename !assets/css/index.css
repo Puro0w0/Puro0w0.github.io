@@ -40,6 +40,6 @@ a:hover {
     color: white;
 }
 .bottom {
-    position: fixed;
+    position: absolute;
     bottom: 0;
 }
