@@ -4,7 +4,7 @@ function cookie_clicker() {
     window.location.href = '/cookie-clicker/en';
 }
 function puro_engine() {
-    window.location.href = '/puros-engine   
+    window.location.href = '/puros-engine/pg';   
 }
 function about_me() {
     window.location.href = '/about-me/fr';
