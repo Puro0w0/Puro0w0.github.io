@@ -6,6 +6,9 @@ function cookie_clicker() {
 function puro_engine() {
     window.location.href = '/puros-engine/pg';   
 }
+function about_puro() {
+    window.location.href = '/about-puro/puro';
+}
 function about_me() {
     window.location.href = '/about-me/fr';
 }
