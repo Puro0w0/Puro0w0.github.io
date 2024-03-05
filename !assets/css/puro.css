@@ -3,10 +3,16 @@ html {
     height: 100%;
 }
 
+body {
+    background-color: #000;
+}
+
 h1 {
-  text-align: center;
+    text-align: center;
+    color: #fff;
 }
 
 p {
-  text-align: center;
+    text-align: center;
+    color: #fff;
 }
