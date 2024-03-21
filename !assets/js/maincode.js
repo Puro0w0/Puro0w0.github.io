@@ -12,3 +12,6 @@ function about_puro() {
 function about_me() {
     window.location.href = '/about-me/fr';
 }
+function my_games() {
+    window.location.href = '/my-games/mgs';
+}
